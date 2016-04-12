@@ -1,0 +1,14 @@
+layout_spectrum: 0.2459854
+typography_spectrum: 0.3957447
+color:
+  saturation: 1
+  lightness: 0.8927666
+  brandStrength: 1
+  brandColors:
+    - '#B47877'
+    - '#7F3930'
+    - '#CF4230'
+    - '#6D160D'
+    - '#F2B6B3'
+  rhythmicContrast: 1
+name: CassisStaudt
